@@ -5,6 +5,6 @@ cd build &&
 git init &&
 git add . &&
 git commit -m 'deploy' &&
-git remote add origin git@github.com:FrankFang/morney-13-website.git &&
+git remote add origin git@github.com:qqqq12337/morney-website.git &&
 git push -u origin master -f
 cd -
